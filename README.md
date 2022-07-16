@@ -1,3 +1,4 @@
 # Git_Course
 for learning from ElZero
-## Project Notes
+# Project Notes
+important notes
